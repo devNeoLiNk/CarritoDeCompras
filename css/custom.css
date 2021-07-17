@@ -172,7 +172,7 @@ ul {
 }
 @media (min-width: 550px) {
   .card {
-    text-align: left;
+    text-align: center;
   }
 }
 .info-card {
@@ -191,6 +191,12 @@ ul {
 .info-card .precio span {
   font-weight: 700;
   font-size: 22px;
+}
+
+.imagen-curso {
+    height: 206px;
+    width: 130px;
+    
 }
 
 .footer {
